@@ -1,0 +1,4 @@
+# This is the settings file for Minecraft World Copy Tool
+
+# Enter your Minecraft Installation directory here e.g. "C:\Users\YOUR_USERNAME\AppData\Roaming\.minecraft"
+minecraft_dir = ""
